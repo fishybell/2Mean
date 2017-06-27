@@ -8,7 +8,7 @@ import { Router,ActivatedRoute, Params } from '@angular/router';
 /* Import role service */
 import { RoleService} from '../services/roles.service';
 
-import {NotificationsService} from 'angular2-notifications';
+import {NotificationsService} from 'angular4-notifications';
 import {Subscription} from 'rxjs/Subscription';
 
 @Component({

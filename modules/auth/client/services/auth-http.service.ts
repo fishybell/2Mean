@@ -10,7 +10,7 @@ import {
 } from '@angular/http';
 import { ActivatedRoute, Router, NavigationExtras } from '@angular/router';
 import { Observable } from 'rxjs/Observable';
-import { NotificationsService } from 'angular2-notifications';
+import { NotificationsService } from 'angular4-notifications';
 
 import 'rxjs/add/operator/map';
 import 'rxjs/add/operator/catch';

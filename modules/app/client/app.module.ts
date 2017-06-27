@@ -11,7 +11,7 @@ import {
   SimpleNotificationsModule, 
   PushNotificationsModule, 
   NotificationsService
-} from 'angular2-notifications';
+} from 'angular4-notifications';
 import { UserService }           from '../../users/client/services/user.service';
 import { AuthService }           from '../../auth/client/auth.service.client';
 import { RoleService }           from '../../roles/client/services/roles.service';

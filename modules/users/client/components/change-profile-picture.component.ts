@@ -12,7 +12,7 @@ import {
   FormBuilder,
   Validators 
 } from '@angular/forms';
-import { NotificationsService } from 'angular2-notifications';
+import { NotificationsService } from 'angular4-notifications';
 
 /* Config */
 import { 

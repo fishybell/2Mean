@@ -4,7 +4,7 @@ import { AuthService } from '../../auth/client/auth.service.client';
 import { UserService } from '../../users/client/services/user.service';
 
 import { User } from '../../users/client/models/user.model.client';
-import { NotificationsService } from 'angular2-notifications';
+import { NotificationsService } from 'angular4-notifications';
 import { Subject } from 'rxjs/Subject';
 
 

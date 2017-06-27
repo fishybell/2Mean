@@ -3,7 +3,7 @@ import { HttpModule, Http, BaseRequestOptions, Response, ResponseOptions, Respon
 import { async, inject, TestBed } from '@angular/core/testing';
 import { MockBackend, MockConnection } from '@angular/http/testing';
 import { Router } from '@angular/router';
-import { NotificationsService } from 'angular2-notifications';
+import { NotificationsService } from 'angular4-notifications';
 
 import * as sinon from 'sinon';
 import * as chai from 'chai';

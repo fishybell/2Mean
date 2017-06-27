@@ -8,6 +8,7 @@
         "suppressImplicitAnyIndexErrors": true,
         "removeComments": false,
         "sourceMap": true,
+        "lib": ["es7", "es2015.iterable", "dom"],
         "target": "es5"
     },
     "exclude": [
